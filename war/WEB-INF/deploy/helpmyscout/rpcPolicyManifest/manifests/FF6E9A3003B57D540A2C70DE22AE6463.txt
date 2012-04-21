@@ -1,0 +1,2 @@
+serviceClass: cz.helpmyscout.client.GreetingService
+path: 5D3D477891B18223DFADAB5BD010AF87.gwt.rpc
